@@ -1,7 +1,7 @@
 // LinkedListExe.cpp : Defines the entry point for the console application.
 //
 
-//EXTRA COMMENT FOR COOL BRANCH
+//EXTRA COMMENT *FROM COOL BRANCH
 
 #include "LinkedList.h"
 
